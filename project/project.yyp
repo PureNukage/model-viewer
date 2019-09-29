@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "044d5ce6-58a7-420f-9d8d-81d4860f1a42",
+            "Value": {
+                "id": "59822648-72ac-431d-a3d1-25a7cd92c3fa",
+                "resourcePath": "sprites\\s_chainlink\\s_chainlink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0afe57c3-da6a-4cb6-b146-ceacd3a0e555",
             "Value": {
                 "id": "1bd9adcd-e331-4dac-9121-e75df1531b31",
@@ -140,14 +148,6 @@
                 "id": "828a58ce-ea07-4f51-affb-acf4d2b8d263",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "b15f796b-328d-4584-95a0-cd2caac6bef9",
-            "Value": {
-                "id": "22851d4d-9e5a-44fa-92e4-6000de23c0ed",
-                "resourcePath": "sprites\\s_enemy_run_1\\s_enemy_run_1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

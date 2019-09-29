@@ -14,6 +14,7 @@ if keyboard_check_pressed(vk_control) {
 	image_angle = 0
 }
 
+y += (keyboard_check(vk_down) - keyboard_check(vk_up))*2
 
 var _sprite = keyboard_check_pressed(vk_right) - keyboard_check_pressed(vk_left)
 if _sprite+sprite_ > -1 and _sprite+sprite_ < ds_list_size(sprite_list) {
