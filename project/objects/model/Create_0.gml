@@ -1,5 +1,7 @@
 image_speed = 0
 sprite_list = ds_list_create()
+pitch = 0
+roll = 0
 sprite_ = 0
 sprite_frames = [] 
 frame = 0
